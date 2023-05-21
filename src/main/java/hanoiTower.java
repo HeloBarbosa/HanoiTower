@@ -1,11 +1,10 @@
-//Trabalho Torre de Hanoi - Grupo: Heloisa Barbosa e Andressa Darzé
 
 package Trabalho1;
 
 import java.util.*;
 
 
-public class torreDeHanoi
+public class hanoiTower
 {
 	public static int[][] criarMatrix(int numeroDiscos) // Método cria uma matriz usada para construir o print do
 														// desenho
